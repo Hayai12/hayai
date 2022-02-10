@@ -16,7 +16,7 @@ public class Hayai123 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ingrese un numero");
+        System.out.println("Hola Mundo");
     }
     
 }
